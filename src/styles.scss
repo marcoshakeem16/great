@@ -1,6 +1,8 @@
-$navbar-light-color:rgba(#A67356, 1) !default;
+/* En este apartado se importan los styles css de cada componente */
+@import "app/body/hero-area/hero-area.component";
 /* You can add global styles to this file, and also import other style files */
 @import "node_modules/bootstrap/scss/bootstrap";
+
 
 
 /* Color Theme Swatches in Hex */
